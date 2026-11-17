@@ -1,4 +1,4 @@
-# 🛋️ Furnish AR — Yüzey Tarama, Elle Yerleştirme/Döndürme ve Home Screen (Turuncu Temalı Sürüm)
+# 🛋️ Orange Furnished AR — Yüzey Tarama, Elle Yerleştirme/Döndürme ve Home Screen (Turuncu Temalı Sürüm)
 
 Bu proje, paylaştığınız YouTube eğitimindeki (**freeCodeCamp - Project-Based Augmented Reality Course with Unity Engine and AR Foundation**, `1:28:24` **Furnish AR** bölümü) yüzey tarayıp odaya eşya yerleştirme projesinin **Unity 2021.3.15f1** için sıfırdan, eksiksiz ve **turuncu tonlarda özelleştirilmiş arayüz + Home Screen + Elle Taşıma & Döndürme** ile hazırlanmış halidir.
 
