@@ -1,0 +1,36 @@
+# Material file for CozyArmchair
+newmtl Wood_Walnut
+Ka 0.126 0.078 0.048
+Kd 0.420 0.260 0.160
+Ks 0.150 0.150 0.150
+Ns 32.0
+d 1.0
+
+newmtl Fabric_Terracotta
+Ka 0.234 0.090 0.042
+Kd 0.780 0.300 0.140
+Ks 0.150 0.150 0.150
+Ns 32.0
+d 1.0
+
+newmtl Fabric_Cream
+Ka 0.288 0.279 0.264
+Kd 0.960 0.930 0.880
+Ks 0.150 0.150 0.150
+Ns 32.0
+d 1.0
+
+newmtl Fabric_OrangeMain
+Ka 0.279 0.126 0.036
+Kd 0.930 0.420 0.120
+Ks 0.150 0.150 0.150
+Ns 32.0
+d 1.0
+
+newmtl Accent_VibrantOrange
+Ka 0.300 0.165 0.030
+Kd 1.000 0.550 0.100
+Ks 0.150 0.150 0.150
+Ns 32.0
+d 1.0
+

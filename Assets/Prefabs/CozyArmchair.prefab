@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7861663976085589038
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7560792361673910110, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7816ea658f6d1ad4f8e4af7cb84d71d1, type: 2}
+    - target: {fileID: -3549776541931382180, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e43d03559e02a9745b6ad506d6f4e440, type: 2}
+    - target: {fileID: -1548247517153218527, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c246636a5a0ee9f408059c3bf0971b57, type: 2}
+    - target: {fileID: 919132149155446097, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Name
+      value: CozyArmchair
+      objectReference: {fileID: 0}
+    - target: {fileID: 1785735244535052038, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8744777be98e0344986bc19833fab30, type: 2}
+    - target: {fileID: 4885286351881479361, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 980ac75f3efd20645bf6702a6af977f8, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+--- !u!1 &7051322457333707135 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d9f9f90e130729744a2c5eac515f02e9, type: 3}
+  m_PrefabInstance: {fileID: 7861663976085589038}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5010918242812051183
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7051322457333707135}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.87, y: 0.89063, z: 0.78490996}
+  m_Center: {x: 0, y: 0.441825, z: -0.012455016}
