@@ -1,5 +1,9 @@
 # 🛋️ Orange Furnished AR — Artırılmış Gerçeklik (AR) Oda & Mobilya Tasarım Uygulaması
 
+Numara:2022556043
+İsim-Soyisim: Pelin Gül Kızılkılıç
+
+
 **Unity 2021.3.15f1** ve **AR Foundation (ARCore)** kullanılarak geliştirilmiş, gerçek dünyadaki yüzeyleri tarayıp 3 boyutlu mobilyaları odaya yerleştirmeyi, parmakla sürükleyerek taşımayı ve döndürmeyi sağlayan **Turuncu Temalı** Artırılmış Gerçeklik (AR) uygulaması.
 
 ---
